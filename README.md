@@ -1,5 +1,5 @@
 DenSR.ipynb contains code for DenSR analysis.
 
-Requires object file containing cell boundary, and two txt files containing spot coordinates 
+DenSR requires an object (.obj) file containing the cell boundary, and two text (.txt) files containing (RNA or protein) spot coordinates.
 
-Sample Obj files and text files are provided
+Sample .obj file and .txt files are provided.
